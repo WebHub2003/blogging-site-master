@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Blogs</title>
+    <link rel="stylesheet" href="css/search.css">
+</head>
+<body>
+    <h1>Search Blogs</h1>
+    <input type="text" id="searchInput" placeholder="Search for blogs...">
+    <div id="searchResults"></div>
+    <!-- Firebase App (the core Firebase SDK) is always required -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+    <!-- Firebase Firestore -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+    <!-- Firebase Authentication -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+    <!-- Your custom Firebase config script -->
+    <script src="firebase-config.js"></script>
+    <script src="js/search.js"></script>
+</body>
+</html>
