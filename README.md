@@ -1,7 +1,7 @@
 
 # Blogging Website  
 
-This project is a  blogging website. This project is done by using only HTML, CSS and JS. This is a node.js app. And using firebase as its databse. Features of this Site :-
+This project is a  blogging website. This project is done by using only HTML, CSS and JS. This is a node.js app. And using firebase as its database. Features of this Site :-
 
 live link - https://blogging-site-master-5tgg.onrender.com
 
